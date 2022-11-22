@@ -1,0 +1,8 @@
+.card img {
+    height: 16rem;
+    object-fit: scale-down;
+}
+
+.card-body {
+    background-color: #EEE;
+}
